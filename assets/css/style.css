@@ -761,6 +761,16 @@ section {
     overflow: hidden;
     border: 1px solid #e1e1e1;
 }
+.site-profile-card{
+    border-radius: 10px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 15px #0002;
+    position: relative;
+    z-index: 5;
+    overflow: hidden;
+    border: 1px solid #e1e1e1;
+}
 .d-profile-sidebar,.d-profile-main{
     height: 100%;
 }
@@ -823,7 +833,16 @@ section {
     background-color: #fff;
     opacity: 1;
 }
-
+.doctor-profile-custom-pb{
+    padding-bottom: 6rem !important;
+}
+.hiw-dark-bg{
+    padding-top: 0;
+    overflow: visible;
+}
+.hiw-dark-bg .hiw-dark-move-up{
+    margin-top: -3rem;
+}
 @media screen and (max-width:767px) {
     .doctor-public-slider,.slider-text-section{
         min-height: unset;
