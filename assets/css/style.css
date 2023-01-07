@@ -877,4 +877,10 @@ section {
     #carouselDoctorSlider .carousel-indicators {
         bottom: 20px !important;
     }
+    .doctor-profile-custom-pb{
+        padding-bottom: 4rem !important;
+    }
+    .hiw-dark-bg{
+        padding-bottom: 1rem;
+    }
 }
